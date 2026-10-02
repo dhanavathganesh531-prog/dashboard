@@ -1,0 +1,78 @@
+{
+  "name": "Sales Analysis 2020 Neomorphic Theme",
+  "dataColors": [
+    "#F59E0B",
+    "#1E3A8A",
+    "#DB2777",
+    "#38BDF8",
+    "#FB7185",
+    "#0EA5E9",
+    "#8B5CF6",
+    "#10B981"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1E293B",
+  "tableAccent": "#F59E0B",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": false,
+            "transparency": 100
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#1E293B"
+              }
+            },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold",
+            "alignment": "center"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#BE185D"
+              }
+            },
+            "fontSize": 32,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1E293B"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    }
+  }
+}
